@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Own Foundation is frontier house between web and web3 worlds.
 <!--
 
 **Here are some ideas to get you started:**
