@@ -1,5 +1,5 @@
 ---
-description: “ Network of interconnected people “
+“ Network of interconnected people “
 ---
 
 # OWN | Foundation
