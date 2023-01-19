@@ -6,7 +6,8 @@ OWN | Foundation was created to provide just that - a cryptocurrency and smart c
 
  Our Mission: To build a decentralized platform that empowers users to invest in projects that align with their values and goals. To create a better future and get benefits together.
 
- Our Vision: To be the world's leading Smart Foundation for own to earn or contributing and exchanging value.  Connecting users from all backgrounds and locations, enabling them to participate in and get benefit from both Web2 or Web3 economy..
+ Our Vision: To be the world's leading Smart Foundation for build-to-earn , contributing or exchanging value.
+ Connecting users from all backgrounds and locations, enabling them to participate in and get benefit from both Web2 or Web3 economy..
 <!--
 
 **Here are some ideas to get you started:**
