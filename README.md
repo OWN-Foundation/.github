@@ -35,8 +35,8 @@ As the world becomes more reliant on digital technology, it's important to have 
 
 **OWN | Foundation** was founded by a group of visionaries who were passionate about the power of decentralization. We saw the potential of blockchain technology and smart contracts. We group together to build and earn in more transparent and secure financial system.
 
-At first, the founders of **OWN | Foundation** faced many challenges. They had to convince others of the value of decentralization and they had to navigate the complex world of web3. But we persevered, with hard work and determination. We can build a platform that has potential to become a leading force in the world of decentralized finance.
+At first, the founders of **OWN | Foundation** faced many challenges. They had to convince others of the value of decentralization and they had to navigate the complex world of web3. But we persevered, with hard work and determination. We can build a platform that has potential to become a leading force in the world of both centralized as a decentralized finance.
 
-Today, **OWN | Foundation** is a thriving community of users who are committed to building a better future, together. We use the platform to invest and build projects, that we all want and believe . To contribute our skills and resources to make a positive impact on the world and get some loyalties for that. We also benefit from the security and transparency of the platform, which is protected by blockchain technology and smart contracts.
+Today, **OWN | Foundation** is a thriving community of users who are committed to building a better future, together. We use the platform to invest and build projects, that we all want and believe . Contribute to make a positive impact on the world and get some loyalties for that. We also benefit from the security and transparency of the platform, which is protected by blockchain technology and smart contracts.
 
 As the world continues to evolve, **OWN | Foundation** is poised to play a leading role in shaping the future of web3. With a strong foundation and a dedicated community, We will create a brighter future for all.
