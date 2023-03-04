@@ -1,20 +1,55 @@
 ---
-“ Network of interconnected people “
+'0': “
+'1': ' '
+'2': 'N'
+'3': e
+'4': t
+'5': w
+'6': o
+'7': r
+'8': k
+'9': ' '
+'10': o
+'11': f
+'12': ' '
+'13': i
+'14': 'n'
+'15': t
+'16': e
+'17': r
+'18': c
+'19': o
+'20': 'n'
+'21': 'n'
+'22': e
+'23': c
+'24': t
+'25': e
+'26': d
+'27': ' '
+'28': p
+'29': e
+'30': o
+'31': p
+'32': l
+'33': e
+'34': ' '
+'35': “
 ---
 
 # OWN | Foundation
 
-**Preface**&#x20;
+**Preface**
 
-As the world becomes more reliant on digital technology, it's important to have a secure and decentralized way to invest, earn or exchange value.  &#x20;
+As the world becomes more reliant on digital technology, it's important to have a secure way to invest, get profit or exchange value.
 
-**OWN | Foundation** was created to provide just that - a cryptocurrency and smart contracts platform that is accessible and easy to use for everyday people.
+**OWN | Foundation** was created to provide just that - a smart contracts platform that is accessible and easy to use for everyday people.
 
-**Our Mission:** To build a decentralized platform that empowers users to invest in projects that align with their values and goals. To create a better future and get benefits together.
+Our Mission: To build a platform that empowers users to invest in projects that align with their values and goals.
 
-**Our Vision:** To be the world's leading Smart Foundation for **own to earn** or contributing and exchanging value.  Connecting users from all backgrounds and locations, enabling them to participate in and get benefit from both **Web2 or Web3** economy.
+**Our Vision:** To be the world's leading Smart Foundation for **own to earn** or contributing and exchanging value. Connecting users from all backgrounds and locations, enabling them to participate in and get benefit from both **Web2 or Web3** economy.
 
-****
+***
 
 **Features:**
 
@@ -23,15 +58,15 @@ As the world becomes more reliant on digital technology, it's important to have 
 * Smart contracts for secure and transparent , investments , transactions and decision-making
 * Educational resources and support to help users understand the benefits and risks of tokenization, decentralization and atc.
 
-****
+***
 
 **Why OWN | Foundation is unique:**
 
 * Wide range of investment opportunities that align with users' values and goals
 * User-friendly and smart platform that is easy to navigate and use
-* Commitment to promoting equity, inclusion and helps building a centralized world using crypto and blockchain as building  a decentralized world that works for everyone
+* Commitment to promoting equity, inclusion and helps building a centralized world using crypto and blockchain as building a decentralized world that works for everyone
 
-****
+***
 
 **OWN | Foundation** was founded by a group of visionaries who were passionate about the power of decentralization. We saw the potential of blockchain technology and smart contracts. We group together to build and earn in more transparent and secure financial system.
 

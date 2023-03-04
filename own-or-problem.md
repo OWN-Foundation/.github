@@ -4,10 +4,10 @@ description: “ Centralization of Power and Money “
 
 # OWN | Problem
 
-The current financial system is heavily centralized, with a few large institutions holding a disproportionate amount of power and control. This can lead to a number of problems, such as:
+The current financial system is heavily centralized, with a few large institutions holding a disproportionate amount of power and money. This can lead to a number of problems, such as:
 
-* Limited access to financial services for certain groups: Many people, especially those in developing countries, do not have access to traditional financial services like banks or credit cards. This can make it difficult for them to participate in the global economy, and to take advantage of opportunities for growth and development.
-* High fees and other barriers to participation: Traditional financial systems can be expensive to use, with high fees for things like transactions, international payments and currency exchange. This can make it difficult for people to afford to participate, and it can also discourage innovation and competition.
+* Limited access to financial services for certain groups: Many people, especially those in developing countries, do not have access to traditional financial services like banks or credit cards. This can make it difficult for them to participate in the global economy and to take advantage of opportunities for growth and development.
+* High fees and other barriers to participation: Traditional financial systems can be expensive to use, with high fees for things like transactions, international investments and currency exchange. This can make it difficult for people to afford to participate, it can also discourage innovation and competition.
 * Lack of transparency and accountability: Centralized financial systems can be opaque, with little visibility into how they operate or how decisions are made. This can lead to a lack of trust and confidence in the system, and it can also make it harder for people to hold institutions accountable for their actions.
 
 The cryptocurrency and decentralized platform industry is a rapidly evolving and complex space, with numerous challenges and complexities. Some of the main complexities of the industry include:
