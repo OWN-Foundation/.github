@@ -35,6 +35,9 @@
 '33': e
 '34': ' '
 '35': “
+description: “To build an interconnected open digital economy”
+cover: .gitbook/assets/IMG_0361.jpg
+coverY: 0
 ---
 
 # OWN | Foundation
@@ -44,6 +47,8 @@
 As the world becomes more reliant on digital technology, it's important to have a secure way to invest, get profit or exchange value.
 
 **OWN | Foundation** was created to provide just that - a smart contracts platform that is accessible and easy to use for everyday people.
+
+
 
 Our Mission: To build a platform that empowers users to invest in projects that align with their values and goals.
 
@@ -56,7 +61,7 @@ Our Mission: To build a platform that empowers users to invest in projects that 
 * Smart Foundation secured and operated by a network of users
 * Investment opportunities around the globe , digital or physical , products and services wide range of projects, from social initiatives and environmental causes to innovative startups and creative endeavors
 * Smart contracts for secure and transparent , investments , transactions and decision-making
-* Educational resources and support to help users understand the benefits and risks of tokenization, decentralization and atc.
+* Educational resources and support to help users understand the benefits and risks of tokenization, decentralization and etc.
 
 ***
 
