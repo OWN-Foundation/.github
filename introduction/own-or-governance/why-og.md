@@ -2,8 +2,6 @@
 
 ### Why OWN Governance?[​](https://docs.lido.fi/lido-dao#why-dao) ( OG ) <a href="#why-dao" id="why-dao"></a>
 
-The OWN FOUNDATION governed by its users ( owners ) who manages the core fund protocol by deciding on key parameters (e.g., setting fees, assigning modules and module operators, oracles, etc.) through the voting power of governance token (`OWN`) holders. Also, the own token holders (owners) will accumulate service fees and spend them on research, development, staking incentives and protocol or module upgrades.
-
 There are several key considerations when it comes to the **OWN | Governance**
 
 1. **Decentralization:** One of the main benefits of a decentralized platform is that it is operated by a distributed network of users, rather than a central authority. This means that power and control are distributed more evenly and that everyone has the opportunity to participate and contribute to the platform.
