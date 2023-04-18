@@ -5,7 +5,7 @@ description: >-
   software using OWN.
 ---
 
-# Quick orientation
+# Quick guide
 
  ❔ Get started with FAQ
 
