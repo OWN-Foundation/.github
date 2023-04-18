@@ -2,7 +2,7 @@
 description: “ From idea to reality “
 ---
 
-# OWN | Core Team
+# OWN | Team
 
 The core team is made up of highly skilled and experienced professionals from a variety of backgrounds. Our team includes blockchain developers, marketing experts, business strategists, and designers, all of whom are committed to building a decentralized platform that delivers value to our users.
 

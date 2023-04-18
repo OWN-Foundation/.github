@@ -2,7 +2,7 @@
 description: Direct and Indirect competitors
 ---
 
-# Comparison with other options​
+# Comparison with other funds​
 
 Direct competitors with similar decentralized fund management solutions:
 
