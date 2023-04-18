@@ -12,8 +12,3 @@ There are several key considerations when it comes to the **OWN | Governance**
 4. **Community input:** It is important for the governance to be open and inclusive, and to allow for input from the wider community. This can be achieved through forums, online discussions, and other forms of engagement.
 
 Overall, **OWN | Governance** will be critical to platform success and sustainability. By carefully considering these and other factors, the foundation creates a governance model that is transparent, fair and inclusive.
-
-The OWN Governance will accumulate service fees from Modules, which is locked in treasury into the insurance and development funds.
-
-* Commitment to promoting equity, inclusion and helps building a physical and digital world that works for everyone, using advance Ai tools, twin building technology and blockchain and etc.
-

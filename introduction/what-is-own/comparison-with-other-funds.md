@@ -6,7 +6,7 @@ description: Direct and Indirect competitors
 
 Direct competitors with similar decentralized fund management solutions:
 
-* Ethereum-based DeFi platforms (e.g., Aave, Yearn.Finance, and Compound) - These platforms have already raised millions of dollars and gained significant user adoption. They offer decentralized lending, borrowing, and yield farming services.
+* Ethereum-based DeFi platforms (e.g., Aave, Yearn.Finance, and Compound) - These platforms have already raised millions of dollars and gained significant user adoption. They offer decentralized lending, borrowing and yield farming services.
 * Decentralized Autonomous Organizations (DAOs) (e.g., MakerDAO, MolochDAO, Aragon) - These organizations have also raised substantial funds and have established themselves in the blockchain space. They provide decentralized governance and funding solutions for various projects.
 
 Indirect competitors:

@@ -4,7 +4,7 @@ The `OWN`token holders governs all OWN FOUNDATION and network decisions to ensur
 
 > 📝 For more detailed information about governance, please, check out [governance](https://lido.fi/governance) page.
 
-To have a vote in the OWN FOUNDATION, and to contribute to the determination of any of the topics outlined above, one must hold the `OWN`governance token. Holding own`token`gives members a vote in the future of OWN, allowing each member to have a personal say in the community. `OWN`voting weight is proportional to the amount of `OWN`a voter holds. The more OWN on a user’s address, the greater the decision-making power the voter gets. The exact mechanism of `OWN`voting can be upgraded just like the other DAO applications.
+To have a vote in the OWN FOUNDATION, and to contribute to the determination of any of the topics outlined above, one must hold the OWN token. Holding own`token`gives members a vote in the future of OWN, allowing each member to have a personal say in the community. `OWN`voting weight is proportional to the amount of `OWN`a voter holds. The more OWN on a user’s address, the greater the decision-making power the voter gets. The exact mechanism of `OWN Governance` can be upgraded just like the other DAO applications.
 
 > 📝 If you have any initiatives you think will benefit the OWN protocol, share your thoughts in our [governance forum](https://research.lido.fi/).
 
