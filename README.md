@@ -29,6 +29,8 @@ description: >-
 
 
 
+**Preface**
+
 Every day we interact with technologies controlled by a handful of large companies whose interests and incentives often conflicts with our own.&#x20;
 
 If we want the benefits of using their proprietary apps, we're forced to agree to terms that most of us will never read, granting this companies complete control over the data we generate through each interaction with their tools.

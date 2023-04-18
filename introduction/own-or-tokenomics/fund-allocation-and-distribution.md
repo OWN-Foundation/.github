@@ -1,5 +1,5 @@
 ---
-description: Token sale structure & Methods
+description: "Don’t fall prey to the \L”Funding Mirage” The only money that really matters is from your customers, not your investors"
 ---
 
 # Fund allocation & distribution

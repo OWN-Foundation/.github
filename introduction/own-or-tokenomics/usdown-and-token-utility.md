@@ -1,12 +1,27 @@
 ---
-description: Governance and Utility
+description: You are your biggest investor
 ---
 
 # The OWN Token
 
-The OWN token servers three distinct purposes: governance, staking and earnings.
+**VCs, Investors , Advisors**&#x20;
 
-The $OWN tokens are split into the following categories.
+* Invest some of their time&#x20;
+* Some of their money&#x20;
+* Part of their portfolio
+
+**You invest**&#x20;
+
+* Your life&#x20;
+* Your reputation&#x20;
+* And there is only ONE of you to invest
+
+**It takes**&#x20;
+
+* Dedication&#x20;
+* Focus
+
+The OWN token servers three distinct purposes: governance, staking and earnings.
 
 $OWN is a utility token and the native token of OWN FOUNDATION. $OWN will be required to purchase or lease all modules and artifacts backed by real estate within Foundation, known as ARTIFACT and OWNAD. $OWN also offers holders a wide range of features within OWN FOUNDATION, such as accessing exclusive events, joining pre sales and staking. Owners will be able to purchase modules from the OWN Portal and through a marketplace within OWN. $OWN is also needed to participate in OWNPAD Incubate launches. $OWN is listed and can be publicly bought from a number of markets, listed here: https://coinmarketcap.com/currencies/own/markets/
 
