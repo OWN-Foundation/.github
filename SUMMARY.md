@@ -33,6 +33,8 @@
 ## GENESIS MODULE
 
 * [Digital Twin Building](own-modules/genesis-module/README.md)
+  * [An Opportunity to Grab](genesis-module/digital-twin-building/an-opportunity-to-grab.md)
+  * [Benefits for the Community Members](genesis-module/digital-twin-building/benefits-for-the-community-members.md)
   * [Artifact NFTs](own-modules/genesis-module/artifact-nfts.md)
   * [Simulation](genesis-module/digital-twin-building/simulation.md)
 
