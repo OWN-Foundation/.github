@@ -22,13 +22,13 @@
   * [Mainnet](introduction/own-or-roadmap/mainnet.md)
 * [OWN | Team](introduction/own-or-team.md)
 
-## CORE PLATFORM
+## OWN PLATFORM
 
-* [OWN | Portal](own-or-platform.md)
-* [OWN | Staking](own-modules/staking.md)
-* [OWN | Wallet](introduction/own-or-platform/own-or-wallet.md)
-* [OWN | Treasury](own-modules/charity-foundation.md)
-* [OWN | GPT ( AI )](core-platform/own-or-gpt-ai.md)
+* [OWN | Portal](own-platform/own-or-platform.md)
+* [OWN | Staking](own-platform/own-or-staking.md)
+* [OWN | Wallet](own-platform/own-or-wallet.md)
+* [OWN | Treasury](own-platform/own-or-treasury.md)
+* [OWN | GPT ( AI )](own-platform/own-or-gpt-ai.md)
 
 ## GENESIS MODULE
 
