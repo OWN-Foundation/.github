@@ -7,25 +7,25 @@ description: >-
 
 # Quick guide
 
- ❔ Get started with FAQ
+Currently OWN supports several networks -  The following networks are supported:&#x20;
 
- 🐞 Follow the bug bounty program
+ ❔ Get started with [FAQ](guides/faq.md)
+
+ 🐞 Follow the [bug bounty program](https://app.gitbook.com/o/af5D1DOsfh2v9yWaO4mV/s/b24i9QdE3ouYVdWCIpL1/\~/changes/14/security/bug-bounties-programs)
 
  💰 Access grants with OWN
 
- 🌐 Everything about Module Operators
+ 🌐 Everything about [Genesis Module](broken-reference)
 
  🔗 Integrate your DApp following this guide
 
- 🔈 Participate in governance forum
+ 🔈 Participate in [Governance](own-or-governance.md)
 
- 🏷️ Audit our source code
+ 🏷️ Audit our [source code](security/security-audits.md)
 
- 🤝 Support, partnerships and more in Discord, Telegram
+ 🤝 Support, partnerships and more in [`Discord`](https://discord.gg/sBUeBzUj), Telegram
 
- ✅ Updates in our blog and Twitter
-
- ℹ️ Find support at help center
+ ✅ Updates in our [LinkedIn ](https://www.linkedin.com/company/ownfoundation/)and Twitter
 
 
 

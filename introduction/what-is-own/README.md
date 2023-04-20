@@ -4,16 +4,16 @@ description: “Understand disruptive potential of OWN”
 
 # What is OWN
 
-The OWN Foundation or simply OWN is a decentralized public fund, designed to operates without a central authority, providing a simple and secure way to invest, save or exchange value.
+The OWN Foundation or simply "OWN" is a decentralized public fund, designed to operates without a central authority, providing a simple and secure way to invest, save or exchange value.
 
-OWN's design offers several distinct advantages over existing methods, including investments, fractional ownerships, savings and earnings also...
+OWN Foundation is dedicated to combine cutting-edge technologies, pooling our power and resource in one platform, empower and motivate users from over the world to come and create more equitable future for all.
 
-* **Transparent transactions:** By recording all transactions on the blockchain, OWN Foundation can provide a transparent and secure financial system that is resistant to fraud or abuse, which can help to avoid complexities.
-* **Security:** The use of blockchain technology and smart contracts can provide added security and transparency to financial transactions on the platform.
-* **Customization:** The use of smart contracts and decentralized governance allows for greater customization and flexibility in the types of projects and investments that are available on the platform.
-* **Innovation:** By leveraging the latest advances in Ai, blockchain and smart contract technology, Foundation can offer a range of unique and innovative features that set it apart from other cryptocurrency platforms.
+* **OWN** responsible for the security of fund, consensus and rewards.
+* **Core Platform -** Contains default modules such is Portal, Staking, Wallet , Treasury and AI ( ownGPT ) features and tools.
+* **Modules -** Sovereign contracts that can have their own tokens and optimize their functionality for specific use cases. To connect the OWN, modules can pay as they go or lease a slot for continuous connectivity.
+* **OWN Governance:** By allowing users to participate in the decision-making process through own governance mechanism.
 
-&#x20;Currently OWN supports several networks - when staking native tokens with OWN, users will receive a `own[token]`, which represents their `[token]` which represents their deposit and the rewards aggregated over time (penalties too). The following networks are supported:&#x20;
+&#x20;Currently OWN supports several networks -  The following networks are supported:&#x20;
 
 * **Ethereum**
 * **Polygon**

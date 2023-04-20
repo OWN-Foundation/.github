@@ -20,14 +20,17 @@
 * [OWN | Roadmap](introduction/own-or-roadmap.md)
   * [Testnet](introduction/own-or-roadmap/testnet.md)
   * [Mainnet](introduction/own-or-roadmap/mainnet.md)
-* [OWN | Team](introduction/own-or-team.md)
+* [OWN | Team](introduction/own-or-team/README.md)
+  * [Core Team](introduction/own-or-team/core-team.md)
+  * [Advisors](introduction/own-or-team/advisors.md)
+  * [Early Adopters](introduction/own-or-team/early-adopters.md)
 
 ## OWN PLATFORM
 
-* [OWN | Portal](own-platform/own-or-platform.md)
-* [OWN | Staking](own-platform/own-or-staking.md)
-* [OWN | Wallet](own-platform/own-or-wallet.md)
-* [OWN | Treasury](own-platform/own-or-treasury.md)
+* [OWN | Portal](own-or-platform.md)
+* [OWN | Staking](own-modules/staking.md)
+* [OWN | Wallet](introduction/own-or-platform/own-or-wallet.md)
+* [OWN | Treasury](own-modules/charity-foundation.md)
 * [OWN | GPT ( AI )](own-platform/own-or-gpt-ai.md)
 
 ## GENESIS MODULE
@@ -41,7 +44,7 @@
 ## Security
 
 * [Security Audits](security/security-audits.md)
-* [Bug Bounties](security/security.md)
+* [Bug Bounties Programs](security/bug-bounties-programs.md)
 
 ## Deployed contracts
 
