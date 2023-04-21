@@ -1,8 +1,8 @@
 ---
-description: Program overview​
+description: Program overview
 ---
 
-# Bug Bounties
+# ├── Bug Bounties Grant/
 
 OWN Bug Bounty programs allow you to report a vulnerability and get up to $2,000,000.
 

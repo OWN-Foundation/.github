@@ -21,7 +21,7 @@ Currently OWN supports several networks -  The following networks are supported:
 
  🔈 Participate in [Governance](own-or-governance.md)
 
- 🏷️ Audit our [source code](security/security-audits.md)
+ 🏷️ Audit our [source code](guides/security-audits.md)
 
  🤝 Support, partnerships and more in [`Discord`](https://discord.gg/sBUeBzUj), Telegram
 
