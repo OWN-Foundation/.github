@@ -4,7 +4,7 @@
 
 * [Quick guide](README.md)
 * [What is OWN](introduction/what-is-own/README.md)
-  * [Problem statement v1](introduction/what-is-own/problem-statement-v1.md)
+  * [Problem statement v1](introduction/what-is-own/problem-statement.md)
   * [Solution](introduction/what-is-own/solution.md)
   * [Quick market figures](introduction/what-is-own/opportunity-size-and-target-market.md)
   * [Comparison with other funds​](introduction/what-is-own/comparison-with-other-funds.md)
@@ -20,18 +20,18 @@
   * [├── Treasury Mgmt/](introduction/own-or-governance/treasury-mgmt.md)
   * [├── Governance Model/](introduction/own-or-governance/governance-model.md)
 * [OWN | Roadmap](introduction/own-or-roadmap/README.md)
-  * [Milestone 1 ( Testnet )](introduction/own-or-roadmap/milestone-1-testnet.md)
-  * [Milestone 2 ( Mainnet )](introduction/own-or-roadmap/milestone-2-mainnet.md)
+  * [Milestone 1 ( Testnet )](introduction/own-or-roadmap/testnet.md)
+  * [Milestone 2 ( Mainnet )](introduction/own-or-roadmap/mainnet.md)
 * [OWN | Team](introduction/own-or-team/README.md)
   * [├── Founders/](introduction/own-or-team/founders.md)
   * [├── Advisors/](introduction/own-or-team/advisors.md)
   * [├── Developers/](introduction/own-or-team/developers.md)
   * [├── Researchers/](introduction/own-or-team/researchers.md)
-  * [PARTNERSHIPS](introduction/own-or-team/partnerships/README.md)
-    * [├── Education/](introduction/own-or-team/partnerships/education.md)
-    * [├── Real Estate/](introduction/own-or-team/partnerships/real-estate.md)
-    * [├── Technology/](introduction/own-or-team/partnerships/technology.md)
-    * [├── Social Impact/](introduction/own-or-team/partnerships/social-impact.md)
+  * [PARTNERSHIPS](community-and-resources/partnerships/README.md)
+    * [├── Education/](community-and-resources/partnerships/education.md)
+    * [├── Real Estate/](community-and-resources/partnerships/real-estate.md)
+    * [├── Technology/](community-and-resources/partnerships/technology.md)
+    * [├── Social Impact/](community-and-resources/partnerships/social-impact.md)
 
 ## OWN PLATFORM
 
@@ -77,7 +77,7 @@
 * [DOCUMENTATION](community-and-resources/documentation/README.md)
   * [├── Roadmap/](community-and-resources/documentation/roadmap.md)
   * [├── Governance/](community-and-resources/documentation/governance.md)
-  * [├── Litepaper/](community-and-resources/documentation/litepaper.md)
+  * [├── Litepaper/](community-and-resources/documentation/whitepaper.md)
   * [├── Technical Paper/](community-and-resources/documentation/technical-paper.md)
 
 ## Deployed contracts
