@@ -7,8 +7,6 @@ description: >-
 
 # Quick guide
 
-Currently OWN supports several networks -  The following networks are supported:&#x20;
-
  ❔ Get started with [FAQ](guides/faq.md)
 
  🐞 Follow the [bug bounty program](https://app.gitbook.com/o/af5D1DOsfh2v9yWaO4mV/s/b24i9QdE3ouYVdWCIpL1/\~/changes/14/security/bug-bounties-programs)
