@@ -4,9 +4,9 @@ description: >-
   worldwide”
 ---
 
-# OWN | Portal
+# ├── Portal/
 
-**What is the NFT Portal?**
+**What is the Portal?**
 
 This is interface where we come all together, contributing and creating modules top of the fund. Using OWN Portal you can navigate where you want join or invest and get reward for interactions. Also portal is space where Artifact NFT's can be purchased and traded.&#x20;
 

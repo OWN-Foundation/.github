@@ -3,27 +3,29 @@ description: >-
   This documentation is intended to introduce the general user to the project,
   as well as to serve as a guide for anyone who may be developing project or
   software using OWN.
+cover: .gitbook/assets/Beacons-Physical-and-Digital-world.jpg
+coverY: 0
 ---
 
 # Quick guide
 
- ❔ Get started with [FAQ](guides/faq.md)
+🌐 What is [OWN ](introduction/what-is-own/)?
 
- 🐞 Follow the [bug bounty program](https://app.gitbook.com/o/af5D1DOsfh2v9yWaO4mV/s/b24i9QdE3ouYVdWCIpL1/\~/changes/14/security/bug-bounties-programs)
+🔈 Participate in [Governance](own-or-governance.md)
 
- 💰 Access grants with OWN
+🔗 Everything about [Genesis Module](broken-reference)
 
- 🌐 Everything about [Genesis Module](broken-reference)
+💰 Access [grant programs](community-and-resources/community/grants-program/) with OWN
 
- 🔗 Integrate your DApp following this guide
+🐞 Follow the [bug bounty program](https://app.gitbook.com/o/af5D1DOsfh2v9yWaO4mV/s/b24i9QdE3ouYVdWCIpL1/\~/changes/14/security/bug-bounties-programs)
 
- 🔈 Participate in [Governance](own-or-governance.md)
+🏷️ Audit our [source code](guides/security-audits.md)
 
- 🏷️ Audit our [source code](guides/security-audits.md)
+🤝 Support, partnerships and more in [`Discord`](https://discord.gg/sBUeBzUj), Telegram
 
- 🤝 Support, partnerships and more in [`Discord`](https://discord.gg/sBUeBzUj), Telegram
+✅ Updates in our [LinkedIn ](https://www.linkedin.com/company/ownfoundation/)and Twitter
 
- ✅ Updates in our [LinkedIn ](https://www.linkedin.com/company/ownfoundation/)and Twitter
+❔  You can check [FAQ](guides/faq.md)
 
 
 

@@ -1,7 +1,7 @@
 ---
-description: // directory for team-related project
+description: Alone we can do so little, together we can do so much.
 ---
 
 # OWN | Team
 
-Alone we can do so little, together we can do so much.
+Combining founders, innovators, advisors, researchers, developers, partners and other community members in one platform .

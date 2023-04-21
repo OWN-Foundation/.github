@@ -22,5 +22,4 @@ Some kind of ROADMAP to execute from -Might take many forms for different audien
 
 Establishing what we do - what will do tomorrow what’s roadmap between
 
-The roadmap for **OWN | Foundation** will depend on the specific goals and objectives of the platform. Two types of milestones :
-
+The roadmap for **OWN | Foundation** will depend on the specific goals and objectives of the platform. Two types of milestones&#x20;

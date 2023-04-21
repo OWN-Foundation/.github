@@ -1,5 +1,5 @@
 ---
-description: Direct and Indirect competitors
+description: Direct & Indirect Competitors
 ---
 
 # Comparison with other funds​
