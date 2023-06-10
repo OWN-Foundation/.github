@@ -47,11 +47,11 @@
 
 ## GENESIS MODULE
 
-* [Digital Twin Building](own-modules/genesis-module/README.md)
-  * [An Opportunity to Grab](genesis-module/digital-twin-building/an-opportunity-to-grab.md)
-  * [Benefits for the Community Members](genesis-module/digital-twin-building/benefits-for-the-community-members.md)
-  * [Artifact NFTs](own-modules/genesis-module/artifact-nfts.md)
-  * [Simulation](genesis-module/digital-twin-building/simulation.md)
+* [PARAZONES](genesis-module/parazones/README.md)
+  * [An Opportunity to Grab](genesis-module/parazones/an-opportunity-to-grab.md)
+  * [Benefits for the Community Members](genesis-module/parazones/benefits-for-the-community-members.md)
+  * [Parazones NFTs](genesis-module/parazones/parazones-nfts.md)
+  * [Simulation](genesis-module/parazones/simulation.md)
 
 ## COMMUNITY & RESOURCES&#x20;
 
@@ -75,8 +75,6 @@
       * [The Problem:](community-and-resources/resources/research-papers/introduction/the-problem.md)
       * [About OWN](community-and-resources/resources/research-papers/introduction/about-own.md)
 * [DOCUMENTATION](community-and-resources/documentation/README.md)
-  * [├── Roadmap/](community-and-resources/documentation/roadmap.md)
-  * [├── Governance/](community-and-resources/documentation/governance.md)
   * [├── Litepaper/](community-and-resources/documentation/whitepaper.md)
   * [├── Technical Paper/](community-and-resources/documentation/technical-paper.md)
 

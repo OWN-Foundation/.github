@@ -1,10 +1,10 @@
 ---
-description: Connecting digital and physical world
+description: Connecting digital and physical realms
 ---
 
-# Digital Twin Building
+# PARAZONES
 
-Our innovative product is a oriented on building twin-building all around the world, that features a unique concept of chaos and order, designed to optimize the user experience through Web3, blockchain, and IOT technology. The chaos building offers exciting and lively spaces, such as restaurants, a gym, a casino, bars, hotels, and spaces for businesses, while the order building has a more calm and organized atmosphere, with living apartments, conference halls, co-working spaces, and relaxing areas such as spas, massage rooms, and beauty salons.&#x20;
+Our innovative product is a oriented on building twin-building all around the world, that features a unique concept of parradox and order, designed to optimize the user experience through Web3, blockchain, and IOT technology. The building offers exciting and lively spaces, such as restaurants, a gym, a casino, bars, hotels, and spaces for businesses, while the order building has a more calm and organized atmosphere, with living apartments, conference halls, co-working spaces, and relaxing areas such as spas, massage rooms, and beauty salons.&#x20;
 
 Our main goal is to provide an opportunity for investors to earn passive income by investing in the spaces within our buildings using cryptocurrency from all around the world. This innovative approach to real estate investment not only creates a new revenue stream for investors but also fosters a sense of community ownership and involvement.&#x20;
 

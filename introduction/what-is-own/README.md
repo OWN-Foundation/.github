@@ -12,7 +12,7 @@ OWN Foundation is dedicated to combine cutting-edge technologies, pooling our po
 * **OWN Portal -** Contains default modules such is Staking, Wallet, Treasury and addition tools suach as OWN Explorer, Staking calculator and AI ( ownGPT ).
 * **Modules -** Sovereign contracts that can have their own tokens and optimize their functionality for specific use cases.&#x20;
 
-&#x20;Currently OWN supports several networks -  The following networks are supported:&#x20;
+&#x20;Currently OWN supports several test-net networks -  The following networks are supported:&#x20;
 
 * **Ethereum**
 * **Polygon**

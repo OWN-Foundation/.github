@@ -1,14 +1,14 @@
 ---
-description: "Don’t fall prey to the \L”Funding Mirage” The only money that really matters is from your customers, not your investors"
+description: "Don’t fall prey to the \L”Funding Mirage” The only money that really matters is from customers, not from investors"
 ---
 
 # Fund allocation & distribution
 
 The OWN Token is designed to incentivize and reward participants who actively contribute to the OWN Foundation ecosystem. **With a fixed supply cap of 10 billion tokens.**&#x20;
 
-Within the ecosystem, OWN Tokens will be used to reward creators, builders, investors, and community members who develop artifacts, modules and tools. Participants can trade the token on supported exchanges or use it to access goods and services within the platform.&#x20;
+Within the ecosystem, OWN Tokens will be used to reward creators, builders, investors and community members who develop modules and tools. Participants can trade the token on supported exchanges or use it to access goods and services within the platform.&#x20;
 
-To make our token sale model accessible to all community members and investors, regardless of their investment level, we plan to conduct a genesis presale and before public sale the official launch. Early supporters will have the opportunity to invest in our project at discounted rates, fostering a more inclusive and diverse ecosystem. This structure allows early supporters to benefit from discounted rates while ensuring a wide distribution of tokens during the public sale.
+To make our token sale model accessible to all community members and investors, regardless of their investment level, we plan to conduct a genesis presale and before public sale the official launch.&#x20;
 
 The Genesis Sale - will target early supporters and investors who believe in the potential of the OWN Foundation. This sale will offer a limited number of tokens at a discounted rate, incentivizing early participation and fostering a strong initial community.
 

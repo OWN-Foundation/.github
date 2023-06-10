@@ -12,4 +12,6 @@ This digital twin would allow you to "walk" through the building virtually and e
 
 On the other side, the physical building can also be integrated with the digital twin through sensors and other IoT devices. This would allow the digital twin to update in real-time with changes made to the physical building, providing a constantly updated and accurate representation.
 
-The combination of the physical and digital world creates a powerful tool for architects, engineers, builders, and real estate professionals. It can help with everything from design and construction to maintenance and sustainability. The possibilities are endless.
+The combination of the physical and digital world creates a powerful tool for architects, engineers, builders, and real estate professionals. It can help with everything from design and construction to maintenance and sustainability.&#x20;
+
+The possibilities are endless.
