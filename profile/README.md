@@ -4,8 +4,6 @@
  
 As the world becomes more reliant on digital technology, it's important to have a secure and decentralized way to invest, earn or exchange value.   
 
-Web3 infrastructure and products
-
 <!--
 
 **Here are some ideas to get you started:**
