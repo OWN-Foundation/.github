@@ -15,17 +15,17 @@ coverY: 0
 
 🔗 Everything about [Genesis Module](broken-reference)
 
-💰 Access [grant programs](community-and-resources/community/grants-program/) with OWN
+💰 Access [grant programs](broken-reference) with OWN
 
 🐞 Follow the [bug bounty program](https://app.gitbook.com/o/af5D1DOsfh2v9yWaO4mV/s/b24i9QdE3ouYVdWCIpL1/\~/changes/14/security/bug-bounties-programs)
 
-🏷️ Audit our [source code](guides/security-audits.md)
+🏷️ Audit our [source code](broken-reference)
 
 🤝 Support, partnerships and more in [`Discord`](https://discord.gg/sBUeBzUj), Telegram
 
 ✅ Updates in our [LinkedIn ](https://www.linkedin.com/company/ownfoundation/)and Twitter
 
-❔  You can check [FAQ](guides/faq.md)
+❔  You can check [FAQ](broken-reference)
 
 
 

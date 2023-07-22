@@ -1,8 +1,9 @@
 # Table of contents
 
+* [Quick guide](README.md)
+
 ## Introduction
 
-* [Quick guide](README.md)
 * [What is OWN](introduction/what-is-own/README.md)
   * [Problem statement v1](introduction/what-is-own/problem-statement.md)
   * [Solution](introduction/what-is-own/solution.md)
@@ -45,39 +46,6 @@
   * [├── Staking Calculator/](own-platform/addition-tools/staking-calculator.md)
   * [├── own-chatgpt/ai](own-platform/addition-tools/own-chatgpt-ai.md)
 
-## GENESIS MODULE
-
-* [PARAZONES](genesis-module/parazones/README.md)
-  * [An Opportunity to Grab](genesis-module/parazones/an-opportunity-to-grab.md)
-  * [Benefits for the Community Members](genesis-module/parazones/benefits-for-the-community-members.md)
-  * [Parazones NFTs](genesis-module/parazones/parazones-nfts.md)
-  * [Simulation](genesis-module/parazones/simulation.md)
-
-## COMMUNITY & RESOURCES&#x20;
-
-* [COMMUNITY](community-and-resources/community/README.md)
-  * [├── Forum/](community-and-resources/community/forum.md)
-  * [├── Meetups/](community-and-resources/community/meetups.md)
-  * [├── Social Media/](community-and-resources/community/social-media.md)
-  * [├── Grants Program/](community-and-resources/community/grants-program/README.md)
-    * [├── Bug Bounties Grant/](community-and-resources/community/grants-program/bug-bounties-grant.md)
-  * [├── Ambassador Program/](community-and-resources/community/ambassador-program.md)
-* [RESOURCES](community-and-resources/resources/README.md)
-  * [├── Blogs/](community-and-resources/resources/blogs.md)
-  * [├── Podcasts/](community-and-resources/resources/podcasts.md)
-  * [├── Courses/](community-and-resources/resources/courses.md)
-  * [├── Video Tutorials/](community-and-resources/resources/video-tutorials.md)
-  * [├── Research Papers/](community-and-resources/resources/research-papers/README.md)
-    * [Digital Twins (DTs)](community-and-resources/resources/research-papers/digital-twins-dts.md)
-    * [About Market](community-and-resources/resources/research-papers/about-market.md)
-    * [Introduction](community-and-resources/resources/research-papers/introduction/README.md)
-      * [Snapshot & Problem](community-and-resources/resources/research-papers/introduction/snapshot-and-problem.md)
-      * [The Problem:](community-and-resources/resources/research-papers/introduction/the-problem.md)
-      * [About OWN](community-and-resources/resources/research-papers/introduction/about-own.md)
-* [DOCUMENTATION](community-and-resources/documentation/README.md)
-  * [├── Litepaper/](community-and-resources/documentation/whitepaper.md)
-  * [├── Technical Paper/](community-and-resources/documentation/technical-paper.md)
-
 ## Deployed contracts
 
 * [Mainnet](deployed-contracts/mainnet.md)
@@ -85,9 +53,3 @@
   * [├── smart-contracts/](deployed-contracts/goerli-testnet/smart-contracts/README.md)
     * [├── OWNFOUNDATION.sol](deployed-contracts/goerli-testnet/smart-contracts/ownfoundation.sol.md)
     * [├── OWNTOKEN.sol](deployed-contracts/goerli-testnet/smart-contracts/owntoken.sol.md)
-
-## Guides
-
-* [FAQ](guides/faq.md)
-* [Slide guide](guides/slide-guide.md)
-* [Security Audits](guides/security-audits.md)
